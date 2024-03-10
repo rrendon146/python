@@ -1,0 +1,9 @@
+Python macOS:
+Terminal:
+Python3 —version /ver version de python en macOS
+
+Python3 -m ven “nombre del entorno virtual” / entorno virtual una vez entrado a la carpeta donde se creara
+
+source env/bin/activate /activar entorno virtual estando en la carpeta “python” en macOS se activa el “activate” en windows es activate.bat / “env” es el nombre de la carpeta que hemos creado para este proyec
+
+deactivate / desactivar entorno virtual en la terminal
