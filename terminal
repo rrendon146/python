@@ -7,3 +7,11 @@ Python3 -m ven “nombre del entorno virtual” / entorno virtual una vez entrad
 source env/bin/activate /activar entorno virtual estando en la carpeta “python” en macOS se activa el “activate” en windows es activate.bat / “env” es el nombre de la carpeta que hemos creado para este proyec
 
 deactivate / desactivar entorno virtual en la terminal
+
+pip3 --version / ver versionde pip en macos para instalar paquetes packages ejemplo conexion bd de postgres sql
+
+pip3 install psycopg / paquete conexion bd postregres sql
+
+
+
+
